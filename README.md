@@ -15,5 +15,5 @@ Text blocks' height adjusts to the content.
 * CSS
 * JS
 
-## See the page
-[Link](https://foxoter.github.io/Notion/)
+## To see the result
+[Link](https://sysoevandrey.github.io/Notion/)
